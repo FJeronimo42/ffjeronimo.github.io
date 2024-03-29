@@ -2,11 +2,11 @@
 title: "Farmer Bees"
 collection: publications
 permalink: /publication/2023-12-01-abelhasagricultoras
-excerpt: #'The book <i>Abelhas Agricultoras</i> is a paradidactic almanac to help teach children about the biology and ecology of pollination.'
+#excerpt: 'The book <i>Abelhas Agricultoras</i> is a paradidactic almanac to help teach children about the biology and ecology of pollination.'
 date: 2023-12-01
-venue: 'Online'
+venue: 'Digital e-book'
 paperurl: 'https://www.researchgate.net/publication/375714169_Abelhas_Agricultoras'
-citation: 'Bonet, R.J., Passos, L.S., and Jeronimo, F.F. (2023). Illustrated by Restrepo-González, A. <i>Abelhas Agriculturas</i>. Curitiba, Authors' edition, 51 pp.'
+citation: 'Bonet, R.J., Passos, L.S., and Jeronimo, F.F. (2023). Illustrated by Restrepo-González, A.&quot; <i>Abelhas Agriculturas</i>.&quot; Curitiba, Authors' edition, 51 pp.'
 ---
 
 <b>Preface:</b> <i>Abelhas Agricultoras</i> is the result of extensive teamwork, created over three years in the Ecosystem Services for Resilient and Sustainable Agriculture Project, which I joined in 2020. This project was developed by the Interactions and Reproductive Biology Laboratory (LINTER) at the Federal University of Paraná (UFPR), in the region of agricultural production in the Miringuava River Basin, in the municipality of São José dos Pinhais in the state of Paraná. Our main objective was to evaluate the influences of landscape and agricultural management on pollination. For this, we carried out several samplings and analyses, which resulted in monographs, dissertations, theses, and scientific papers. To make all its results possible, we counted on the collaboration of dozens of agricultural producers in the region, and it was with them in mind, we created this almanac. In addition to the academic return that research must have, we consider it essential to have some return to the local community, which welcomed us with so much affection and attention. Initially aimed at children, the almanac <i>Abelhas Agricultoras</i> seeks dialogue with the non-academic public and provides contact with biological concepts such as pollination, highlighting its preponderant importance in food production. We try to eliminate scientific jargon and write in an accessible way so that the reading is calm, curious, and fun. Furthermore, we hope this almanac will serve as additional support for teaching ecology in classrooms in any corner of Brazil and also reach anyone of any age interested in learning a little more about food production and family farming. I am immensely grateful to the fantastic team who devised my idea and made everything possible. Inside this almanac, there is a lot of us and a lot of our affection for Biology, for pollination, and for the sustainable future, we fight for. I hope that, in some way, the content on the following pages shines some light on you, the reader, and that you pass it on. By: Rafaela Jardim Bonet.

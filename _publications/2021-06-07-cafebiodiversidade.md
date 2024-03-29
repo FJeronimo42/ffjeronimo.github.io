@@ -2,7 +2,7 @@
 title: "What do birds and insects have to do with your coffee?"
 collection: publications
 permalink: /publication/2021-06-07-cafebiodiversidade
-excerpt: #'This paper is about the relationship between coffee and biodiversity.'
+#excerpt: #'This paper is about the relationship between coffee and biodiversity.'
 date: 2021-02-17
 venue: 'Revista Bioika'
 paperurl: 'https://revistabioika.org/pt/o-leitor-escreve/post?id=111'

@@ -2,7 +2,7 @@
 title: "Like an “espresso” but not like a “cappuccino”: landscape metrics are useful for predicting coffee production at the farm level but not at the municipality level"
 collection: publications
 permalink: /publication/2023-11-22-likespressobutnotlikecapuccino
-excerpt: #'This paper is about landscape effects on coffee production.'
+#excerpt: #'This paper is about landscape effects on coffee production.'
 date: 2023-11-22
 venue: 'Environmental Monitoring and Assessment'
 paperurl: 'https://doi.org/10.1007/s10661-023-12139-z'

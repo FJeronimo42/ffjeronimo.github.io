@@ -67,9 +67,9 @@ Soft Skills
 
 Languages
 ======
-Portuguese: Native
-English: B2 (TOEFL-ITP 2023)
-Spanish: A2
+* Portuguese (Brasilian): Native
+* English: B2 (TOEFL-ITP 2023)
+* Spanish: A2
 
 Publications
 ======
