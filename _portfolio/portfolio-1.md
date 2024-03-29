@@ -33,13 +33,13 @@ collection: portfolio
 
 <div class="carousel-container">
     <div class="carousel-slide">
-        <img class="carousel-item" src="images/mapa1.png" alt="Image 1">
-        <img class="carousel-item" src="images/mapa2.png" alt="Image 2">
-        <img class="carousel-item" src="images/mapa3.png" alt="Image 3">
-        <img class="carousel-item" src="images/mapa4.png" alt="Image 4">
-        <img class="carousel-item" src="images/mapa5.png" alt="Image 5">
-        <img class="carousel-item" src="images/mapa6.png" alt="Image 6">
-        <img class="carousel-item" src="images/mapa7.png" alt="Image 7">
+        <img class="carousel-item" src='images/mapa1.png' alt="Mapa 1">
+        <img class="carousel-item" src='images/mapa2.png' alt="Mapa 2">
+        <img class="carousel-item" src='images/mapa3.png' alt="Mapa 3">
+        <img class="carousel-item" src='images/mapa4.png' alt="Mapa 4">
+        <img class="carousel-item" src='images/mapa5.png' alt="Mapa 5">
+        <img class="carousel-item" src='images/mapa6.png' alt="Mapa 6">
+        <img class="carousel-item" src='images/mapa7.png' alt="Mapa 7">
     </div>
 </div>
 
