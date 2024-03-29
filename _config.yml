@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Biologist | Ecologist | Data Scientist"
   location         : "Curitiba"
-  employer         : "Federal University of Parana"
+  employer         : "Federal University of Paraná"
   uri              : # URL
   email            : "fernando@ufpr.br" 
 
@@ -47,7 +47,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  upwork           : "https://www.upwork.com/freelancers/~01c90e59bd55e5d1d7"
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
