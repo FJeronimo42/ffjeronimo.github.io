@@ -1,0 +1,14 @@
+---
+title: "O efeito da paisagem sobre a produtividade da cafeicultura"
+collection: publications
+permalink: /publication/2020-03-01-tesecafepaisagem
+excerpt: 'This dissertation is about landscape effects on coffee production.'
+date: 2020-03-01
+venue: 'Universidade Federal do Paraná'
+paperurl: 'https://hdl.handle.net/1884/69328'
+citation: 'Jeronimo, F.F. (2020). &quot;O efeito da paisagem sobre a produtividade da cafeicultura.&quot; <i>Universidade Federal do Paraná</i>.'
+---
+
+Abstract
+
+Agriculture, such as coffee growing, is one of the human activities most dependent on natural resources, and for this reason, it is one of the activities with a great negative impact on biodiversity. Despite the negative impact of coffee production on biodiversity, ecosystem services have a positive influence on coffee crops in terms of quantity and quality through pollination and pest control. In turn, the functioning of these services has a spatial bias, where the landscape is a key scale for understanding the mechanisms by which these services work. In this context, the objective of this study was to understand how the landscape structure, through the intensity of the anthropic impact, diversity, isolation, and cover of native vegetation, influences the coffee crop. Secondarily, we sought to understand how some aspects of management can influence this productivity. Therefore, we analyzed data on land use and data from a census of coffee producing properties and cities in the State of Paraná, southern Brazil. From these data, we performed model selection analyzes (GLM) that were ordered according to the second order Akaike information criterion (AICc). For the analysis, landscape metrics, corresponding to the selected parameters, were used as predictors of coffee productivity in terms of yield and profit. Our results indicated that coffee productivity by area of each property is negatively influenced by the intensity of management in the landscape within a radius of 3km. The diversity of the landscape positively influences coffee production also within a 3 km radius. At the city level, the interaction between landscape diversity and native vegetation coverage has shown to be positively influential. On the other hand, we found no effects of management on yield at property level or effects of the landscape on profit at cities level. Our results corroborate the hypothesis that the landscape structure influences coffee productivity. Thus, the structure of natural elements in agricultural landscapes was essential for a better coffee yield. Thus, we conclude that adopting management actions on the landscape scale makes coffee growing more sustainable, safeguarding biodiversity conservation and the productive and economic health of the coffee industry. Key words: agriculture, biodiversity conservation, coffee, ecosystem services, landscape ecology.
