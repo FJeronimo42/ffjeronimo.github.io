@@ -4,4 +4,56 @@ excerpt: "Short description of portfolio item number 4 <br/><img src='images/map
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio item number 9</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+  <style>
+    .owl-carousel .item img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+<div class="owl-carousel">
+  <div class="item"><img src="images/mapa1.png" alt="Mapa 1"></div>
+  <div class="item"><img src="images/mapa2.png" alt="Mapa 2"></div>
+  <div class="item"><img src="images/mapa3.png" alt="Mapa 3"></div>
+  <div class="item"><img src="images/mapa4.png" alt="Mapa 4"></div>
+  <div class="item"><img src="images/mapa5.png" alt="Mapa 5"></div>
+  <div class="item"><img src="images/mapa6.png" alt="Mapa 6"></div>
+  <div class="item"><img src="images/mapa7.png" alt="Mapa 7"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $('.owl-carousel').owlCarousel({
+      loop:true,
+      margin:10,
+      nav:true,
+      responsive:{
+        0:{
+          items:1
+        },
+        600:{
+          items:3
+        },
+        1000:{
+          items:5
+        }
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
