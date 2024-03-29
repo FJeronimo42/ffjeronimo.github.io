@@ -12,23 +12,21 @@ collection: portfolio
     <div class="carousel-item">
       <img src="/images/portfolio1.2.png" class="d-block w-100" alt="...">
     </div>
-        <div class="carousel-item">
+    <div class="carousel-item">
       <img src="/images/portfolio1.3.png" class="d-block w-100" alt="...">
     </div>
-        <div class="carousel-item">
+    <div class="carousel-item">
       <img src="/images/portfolio1.4.png" class="d-block w-100" alt="...">
     </div>
-        <div class="carousel-item">
+    <div class="carousel-item">
       <img src="/images/portfolio1.5.png" class="d-block w-100" alt="...">
     </div>
-        <div class="carousel-item">
+    <div class="carousel-item">
       <img src="/images/portfolio1.6.png" class="d-block w-100" alt="...">
     </div>
-        </div>
-        <div class="carousel-item">
+    <div class="carousel-item">
       <img src="/images/portfolio1.7.png" class="d-block w-100" alt="...">
     </div>
-    <!-- Add more carousel items as needed -->
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -39,4 +37,3 @@ collection: portfolio
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
