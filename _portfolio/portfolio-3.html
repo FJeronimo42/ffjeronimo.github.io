@@ -3,47 +3,42 @@ title: "Portfolio item number 3"
 excerpt: "Short description of portfolio item number 2"
 layout: single
 author_profile: false
-images:
-  - url: /images/mapa1.png
-    alt: Image 1
-  - url: /images/mapa2.png
-    alt: Image 2
-  - url: /images/mapa3.png
-    alt: Image 3
-  - url: /images/mapa4.png
-    alt: Image 4
-  - url: /images/mapa5.png
-    alt: Image 5
-  - url: /images/mapa6.png
-    alt: Image 6
-  - url: /images/mapa7.png
-    alt: Image 7
 ---
 
 This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
-        {% for image in page.images %}
-            {% if forloop.first %}
-                <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}" class="active"></li>
-            {% else %}
-                <li data-target="#myCarousel" data-slide-to="{{ forloop.index0 }}"></li>
-            {% endif %}
-        {% endfor %}
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
     </ol>
     <div class="carousel-inner">
-        {% for image in page.images %}
-            {% if forloop.first %}
-                <div class="carousel-item active">
-                    <img src="{{ site.baseurl }}{{ image.url }}" alt="{{ image.alt }}">
-                </div>
-            {% else %}
-                <div class="carousel-item">
-                    <img src="{{ site.baseurl }}{{ image.url }}" alt="{{ image.alt }}">
-                </div>
-            {% endif %}
-        {% endfor %}
+        <div class="carousel-item active">
+            <img src="/images/mapa1.png" alt="Image 1">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/mapa2.png" alt="Image 2">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/mapa3.png" alt="Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/mapa4.png" alt="Image 4">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/mapa5.png" alt="Image 5">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/mapa6.png" alt="Image 6">
+        </div>
+        <div class="carousel-item">
+            <img src="/images/mapa7.png" alt="Image 7">
+        </div>
     </div>
     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
