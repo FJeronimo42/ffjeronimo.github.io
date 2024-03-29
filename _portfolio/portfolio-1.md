@@ -1,7 +1,42 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/images/portfolio1.1.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/portfolio1.2.png" class="d-block w-100" alt="...">
+    </div>
+        <div class="carousel-item">
+      <img src="/images/portfolio1.3.png" class="d-block w-100" alt="...">
+    </div>
+        <div class="carousel-item">
+      <img src="/images/portfolio1.4.png" class="d-block w-100" alt="...">
+    </div>
+        <div class="carousel-item">
+      <img src="/images/portfolio1.5.png" class="d-block w-100" alt="...">
+    </div>
+        <div class="carousel-item">
+      <img src="/images/portfolio1.6.png" class="d-block w-100" alt="...">
+    </div>
+        </div>
+        <div class="carousel-item">
+      <img src="/images/portfolio1.7.png" class="d-block w-100" alt="...">
+    </div>
+    <!-- Add more carousel items as needed -->
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
