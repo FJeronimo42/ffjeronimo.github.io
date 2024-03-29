@@ -22,11 +22,11 @@ Education
 Work experience
 ======
 * Since 2023: Data Analyst
-  * Self-employed | Freelance
+  * Self-employed - Freelance
   * Duties includes: Data wrangling, data mining, data analyses, data viz, and reports.
 
 * Since 2021: Environmental Consultant
-  * Self-employed | Freelance
+  * Self-employed - Freelance
   * Duties includes: Fieldwork, processing of entomological material, sampling/experimental design, data analysis, and reports.
 
 * 2021-2022: Field Team Manager
