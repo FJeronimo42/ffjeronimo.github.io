@@ -1,7 +1,7 @@
 ---
 title: "Farmer Bees"
 collection: publications
-permalink: /2023-12-01-farmersbees
+permalink: /publication/2023-12-01-farmersbees
 excerpt: ' '
 date: 2021-12-01
 venue: 'e-Book'
