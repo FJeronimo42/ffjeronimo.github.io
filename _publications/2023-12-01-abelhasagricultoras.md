@@ -2,7 +2,7 @@
 title: "Farmer Bees"
 collection: publications
 permalink: /publication/2023-12-01-abelhasagricultoras
-excerpt: 'The book <i>Abelhas Agricultoras</i> is a paradidactic almanac to help teach children about the biology and ecology of pollination.'
+excerpt: ' '
 date: 2023-12-01
 venue: 'Digital e-book'
 paperurl: 'https://www.researchgate.net/publication/375714169_Abelhas_Agricultoras'
