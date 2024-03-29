@@ -4,6 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='images/mapa
 collection: portfolio
 ---
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,4 +66,3 @@ collection: portfolio
 
 </body>
 </html>
-
