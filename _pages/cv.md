@@ -11,35 +11,65 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Botany - Vegetal Ecology, Federal University of Paraná, 2025 (expected)
+* Ph.D Stage in Ecology - Zoology and Tropical Ecology, Julius-Maximilians-Universität Würzburg, 2024
+* Spec. in Data Science and Big Data, Federal University of Paraná, 2024
+* M.Sc. in Ecology and Conservation - Populations and Communities, GitHub University, 2020
+* B.Ed. in Teaching Biology and Science, Federal University of Paraná, 2016
+* B.Sc. in Biological Sciences, Federal University of Paraná, 2015
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2023: Data Analyst
+  * Self-employed | Freelance
+  * Duties includes: Data wrangling, data mining, data analyses, data viz, and reports.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 2021: Environmental Consultant
+  * Self-employed | Freelance
+  * Duties includes: Fieldwork, processing of entomological material, sampling/experimental design, data analysis, and reports.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2022: Field Team Manager
+  * Interactions and Reproductive Biology Laboratory
+  * Duties included: Project management, people and resources management, and field logistics.
+  * Supervisor: Isabela Galarda Varassin
+
+* Since 2018: Academic Researcher
+  * Interactions and Reproductive Biology Laboratory
+  * Duties included: Scientific research, project management, geoprocessing, data analysis, and teaching.
+  * Supervisor: Isabela Galarda Varassin
   
-Skills
+Hard Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis
+  * R
+  * Python
+
+* Data wrangling and data viz
+  * Tidyverse
+  * MS Excel
+  * SQL (PostgreSQL)
+
+* Statistics and Machine Learning
+  * Tidymodels
+  
+* Geoprocessing
+  * QGIS
+  * GoogleEngine
+
+Soft Skills
+======
+* Analytical thinking
+* Learning
+* Results orientation
+* Problem solving
+* Effective communication
+
+Languages
+======
+Portuguese: Native
+English: B2 (TOEFL-ITP 2023)
+Spanish: A2
 
 Publications
 ======
@@ -59,6 +89,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Projects and Colabs
 ======
-* Currently signed in to 43 different slack teams
+* Currently involved in 13 scientific research projects
+  * Data analyses
+  * Data viz
+  * Geoprocessing
+  * Landscape ecology
+  * Ecological network analyses

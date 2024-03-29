@@ -1,12 +1,12 @@
 ---
-title: "Abelhas Agricultoras"
+title: "Farmer Bees"
 collection: publications
 permalink: /publication/2023-12-01-abelhasagricultoras
-excerpt: 'The book <i>Abelhas Agricultoras</i> is a paradidactic almanac to help teach children about the biology and ecology of pollination.'
+excerpt: #'The book <i>Abelhas Agricultoras</i> is a paradidactic almanac to help teach children about the biology and ecology of pollination.'
 date: 2023-12-01
-venue: ''
+venue: 'Online'
 paperurl: 'https://www.researchgate.net/publication/375714169_Abelhas_Agricultoras'
-citation: 'Bonet, R.J., Passos, L.S., and Jeronimo, F.F. (2009). Illustrated by Restrepo-González, A. Abelhas Agriculturas. 51 pp.'
+citation: 'Bonet, R.J., Passos, L.S., and Jeronimo, F.F. (2023). Illustrated by Restrepo-González, A. <i>Abelhas Agriculturas</i>. Curitiba, Authors' edition, 51 pp.'
 ---
 
 Preface

@@ -1,8 +1,8 @@
 ---
-title: "O efeito da paisagem sobre a produtividade da cafeicultura"
+title: "The effect of landscape on coffee productivity"
 collection: publications
 permalink: /publication/2020-03-01-tesecafepaisagem
-excerpt: 'This dissertation is about landscape effects on coffee production.'
+excerpt: #'This dissertation is about landscape effects on coffee production.'
 date: 2020-03-01
 venue: 'Universidade Federal do Paraná'
 paperurl: 'https://hdl.handle.net/1884/69328'
