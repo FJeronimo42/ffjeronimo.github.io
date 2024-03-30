@@ -1,6 +1,6 @@
 ---
 title: "Mapas temáticos"
-excerpt: "<br/><img src='port-test/mapa1.png'>"
+excerpt: "<br/><img src='mapa1.png'>"
 collection: portfolio
 ---
 
@@ -84,4 +84,25 @@ collection: portfolio
 
   function showSlide(index) {
     carouselTrack.style.transform = `translateX(-${index * 100}%)`;
-    currentIndex = in
+    currentIndex = index;
+  }
+
+  function prevSlide() {
+    if (currentIndex > 0) {
+      showSlide(currentIndex - 1);
+    } else {
+      showSlide(carouselItems.length - 1);
+    }
+  }
+
+  function nextSlide() {
+    if (currentIndex < carouselItems.length - 1) {
+      showSlide(currentIndex + 1);
+    } else {
+      showSlide(0);
+    }
+  }
+</script>
+
+</body>
+</html>
