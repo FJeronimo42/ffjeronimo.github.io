@@ -1,6 +1,6 @@
 ---
 title: "Mapas temáticos"
-excerpt: "<br/><img src='mapa1.png'>"
+excerpt: "<br/><img src='port-test/mapa1.png'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> </title>
+<title>Carousel Example</title>
 <style>
   .carousel-container {
     width: 100%;
@@ -20,23 +20,28 @@ collection: portfolio
   .carousel-track {
     display: flex;
     transition: transform 0.5s ease;
+    justify-content: center; /* Centralizando horizontalmente */
+    align-items: center; /* Centralizando verticalmente */
   }
 
   .carousel-item {
     flex: 0 0 auto;
     width: 100%;
+    text-align: center; /* Centralizando o conteúdo horizontalmente */
   }
 
   .carousel-item img {
     height: 12.5cm; /* Definindo a altura das imagens */
     width: auto;
+    display: block; /* Garante que a altura definida seja aplicada corretamente */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
   }
 
   .carousel-prev,
   .carousel-next {
     position: absolute;
-    top: 0%;
-    transform: translateY(-0%);
+    top: 50%;
+    transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
     padding: 10px;
@@ -79,25 +84,4 @@ collection: portfolio
 
   function showSlide(index) {
     carouselTrack.style.transform = `translateX(-${index * 100}%)`;
-    currentIndex = index;
-  }
-
-  function prevSlide() {
-    if (currentIndex > 0) {
-      showSlide(currentIndex - 1);
-    } else {
-      showSlide(carouselItems.length - 1);
-    }
-  }
-
-  function nextSlide() {
-    if (currentIndex < carouselItems.length - 1) {
-      showSlide(currentIndex + 1);
-    } else {
-      showSlide(0);
-    }
-  }
-</script>
-
-</body>
-</html>
+    currentIndex = in
