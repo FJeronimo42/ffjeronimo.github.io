@@ -1,6 +1,6 @@
 ---
-title: "TESTE CARROSSEL"
-excerpt: "TESTE HTML"
+title: "Mapas temáticos"
+excerpt: "<br/><img src='mapa1.png'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Carousel Example</title>
+<title> </title>
 <style>
   .carousel-container {
     width: 100%;
@@ -20,8 +20,6 @@ collection: portfolio
   .carousel-track {
     display: flex;
     transition: transform 0.5s ease;
-    justify-content: center; /* Centralizando horizontalmente */
-    align-items: center; /* Centralizando verticalmente */
   }
 
   .carousel-item {
@@ -32,8 +30,6 @@ collection: portfolio
   .carousel-item img {
     height: 12.5cm; /* Definindo a altura das imagens */
     width: auto;
-    display: block; /* Garante que a altura definida seja aplicada corretamente */
-    margin: 0 auto; /* Centraliza a imagem horizontalmente */
   }
 
   .carousel-prev,
@@ -90,4 +86,18 @@ collection: portfolio
     if (currentIndex > 0) {
       showSlide(currentIndex - 1);
     } else {
-      showSlide(carouselItems.length - 1)
+      showSlide(carouselItems.length - 1);
+    }
+  }
+
+  function nextSlide() {
+    if (currentIndex < carouselItems.length - 1) {
+      showSlide(currentIndex + 1);
+    } else {
+      showSlide(0);
+    }
+  }
+</script>
+
+</body>
+</html>
