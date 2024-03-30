@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<span style="color:#2E8A99;">Education</span>
 ======
 * Ph.D in Botany - Vegetal Ecology, Federal University of Paraná, 2025 (expected)
 * Ph.D Stage in Ecology - Zoology and Tropical Ecology, Julius-Maximilians-Universität Würzburg, 2024
@@ -19,7 +19,7 @@ Education
 * B.Sc. in Biological Sciences, Federal University of Paraná, 2015
 
 
-Work experience
+<span style="color:#2E8A99;">Work experience</span>
 ======
 * Since 2023: Data Analyst
   * Self-employed - Freelance
@@ -39,7 +39,7 @@ Work experience
   * Duties included: Scientific research, project management, geoprocessing, data analysis, and teaching.
   * Supervisor: Isabela Galarda Varassin
   
-Hard Skills
+<span style="color:#2E8A99;">Hard Skills</span>
 ======
 * Data analysis
   * R
@@ -57,7 +57,7 @@ Hard Skills
   * QGIS
   * GoogleEngine
 
-Soft Skills
+<span style="color:#2E8A99;">Soft Skills</span>
 ======
 * Analytical thinking
 * Learning
@@ -65,31 +65,31 @@ Soft Skills
 * Problem solving
 * Effective communication
 
-Languages
+<span style="color:#2E8A99;">Languages</span>
 ======
 * Portuguese (Brasilian): Native
 * English: B2 (TOEFL-ITP 2023)
 * Spanish: A2
 
-Publications
+<span style="color:#2E8A99;">Publications</span>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<span style="color:#2E8A99;">Talks</span>
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<span style="color:#2E8A99;">Teaching</span>
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Projects and Colabs
+<span style="color:#2E8A99;">Projects and Colabs</span>
 ======
 * Currently involved in 13 scientific research projects
   * Data analyses
