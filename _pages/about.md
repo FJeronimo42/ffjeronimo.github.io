@@ -25,7 +25,7 @@ If you are interested in my services or academic collaborations, send me a messa
   * Organization of data sets for use in analysis and presentations.
 
 * DATA VIZ
- * Creation of graphs, figures, dashboards and infographics to present results.
+  * Creation of graphs, figures, dashboards and infographics to present results.
 
 * GEOPROCESSING
   * Manipulation of vector and raster layers for geospatial analysis.
@@ -52,4 +52,4 @@ Helping professionals and academics tell the story of their data with appropriat
   * Presentation of figures, graphs, infographics, dashboards and maps highlighting what is really important.
 
 * REPRODUCIBILITY & REPEATABILITY
- * Analyses, figures and maps coded in the R programming language, allowing efficiency in the reproductibility and repeatbility of analyses.
+  * Analyses, figures and maps coded in the R programming language, allowing efficiency in the reproductibility and repeatbility of analyses.
