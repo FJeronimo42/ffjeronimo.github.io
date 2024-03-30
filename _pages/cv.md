@@ -38,9 +38,8 @@ redirect_from:
   * Interactions and Reproductive Biology Laboratory
   * Duties included: Scientific research, project management, geoprocessing, data analysis, and teaching.
   * Supervisor: Isabela Galarda Varassin
-  
+
 <span style="color:#2E8A99;">Hard Skills</span>
-======
 * Data analysis
   * R
   * Python
