@@ -1,5 +1,5 @@
 ---
-title: "TESTE PORTIFOLIO"
+title: "TESTE CARROSSEL"
 excerpt: "TESTE HTML"
 collection: portfolio
 ---
@@ -9,17 +9,48 @@ collection: portfolio
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+
+<style>
+    /* Add your custom styles here */
+    .slider img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
+
 </head>
 <body>
 
-<img src="/images/mapa1.png" style="height:10cm;"><br>
-<img src="/mapa2.png" style="height:10cm;"><br>
-<img src="mapa3.png" style="height:10cm;"><br>
-<img src="https://raw.githubusercontent.com/FJeronimo42/DataViz/1950d66979c7fa52b8406bc08ad4830d4ebe4639/Table1.png" style="height:10cm;"><br>
-<img src="images/mapa5.png" style="height:10cm;"><br>
-<img src="images/mapa6.png" style="height:10cm;"><br>
-<img src="/imagesmapa7.png" style="height:10cm;"><br>
+<div class="slider">
+    <img src="mapa1.png">
+    <img src="mapa2.png">
+    <img src="mapa3.png">
+    <img src="mapa4.png">
+    <img src="mapa5.png">
+    <img src="mapa6.png">
+    <img src="mapa7.png">
+    <img src="mapa8.png">
+    <img src="mapa9.png">
+    <img src="mapa10.png">				
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $('.slider').slick({
+            infinite: true,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            variableWidth: true
+        });
+    });
+</script>
 
 </body>
 </html>
+
 
