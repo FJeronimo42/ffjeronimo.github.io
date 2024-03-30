@@ -49,18 +49,14 @@ $masthead-height            : 50px;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+
 
 $body-color                 : #3D3B40;
 $background-color           : #3D3B40;
 $code-background-color      : #364F6B;
 $code-background-color-dark : #364F6B;
 $text-color                 : #FFFFFF;
-$border-color               : $lighter-gray;
+$border-color               : #3D3B40;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -96,11 +92,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #EA168E;
-$link-color-hover           : #A460ED;
+$link-color                 : #ea168e;
+$link-color-hover           : #a460ed;
 $link-color-visited         : #FC5185;
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : #ea168e;
+$masthead-link-color-hover  : #ea168e;
 
 
 /*
